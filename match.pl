@@ -1,0 +1,2 @@
+man("John"):-!.
+man("Frank").
